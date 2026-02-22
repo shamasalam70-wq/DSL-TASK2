@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of the Perfect Espresso",
+    "date": "2026-02-10",
+    "author": "Marcus Brew",
+    "summary": "Discover the science and art behind a perfect shot of espresso, from grind size to water pressure.",
+    "category": "Coffee Tips"
+  },
+  {
+    "id": 2,
+    "title": "Why Java Buzz Uses Sustainable Beans",
+    "date": "2026-02-12",
+    "author": "Elena Green",
+    "summary": "Our commitment to the environment: how we source our coffee beans ethically and sustainably.",
+    "category": "Sustainability"
+  },
+  {
+    "id": 3,
+    "title": "Top 5 Pastries to Pair with Your Latte",
+    "date": "2026-02-14",
+    "author": "Pastry Chef Jules",
+    "summary": "A guide to the most delicious pairings for our signature creamy lattes.",
+    "category": "Food"
+  },
+  {
+    "id": 4,
+    "title": "Meet the Barista: James and His Coffee Journey",
+    "date": "2026-02-16",
+    "author": "Java Buzz Team",
+    "summary": "Get to know the person behind your morning cup and their passion for latte art.",
+    "category": "Our Team"
+  },
+  {
+    "id": 5,
+    "title": "The Benefits of Cold Brew Coffee",
+    "date": "2026-02-18",
+    "author": "Dr. Bean",
+    "summary": "Why cold brew is more than just a trend: health benefits and smooth flavor profiles.",
+    "category": "Health & Lifestyle"
+  },
+  {
+    "id": 6,
+    "title": "Coming Soon: Our New Summer Seasonal Menu",
+    "date": "2026-02-20",
+    "author": "Elena Green",
+    "summary": "Get a sneak peek at the refreshing drinks we're adding to the menu next month.",
+    "category": "News"
+  },
+  {
+    "id": 7,
+    "title": "How to Make Latte Art at Home",
+    "date": "2026-02-21",
+    "author": "James",
+    "summary": "Simple tips for creating hearts and rosettas in your own kitchen.",
+    "category": "Coffee Tips"
+  },
+  {
+    "id": 8,
+    "title": "History of the Coffee Bean",
+    "date": "2026-02-22",
+    "author": "Marcus Brew",
+    "summary": "From Ethiopia to your cup: the fascinating journey of coffee through history.",
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "title": "Creating a Cozy Workspace at Java Buzz",
+    "date": "2026-02-23",
+    "author": "Design Team",
+    "summary": "Why Java Buzz is the perfect place to focus, with free Wi-Fi and comfortable seating.",
+    "category": "Community"
+  },
+  {
+    "id": 10,
+    "title": "Join Our Next Community Coffee Tasting Event",
+    "date": "2026-02-24",
+    "author": "Java Buzz Team",
+    "summary": "Learn how to taste coffee like a pro and sample our latest single-origin roasts.",
+    "category": "Events"
+  }
+]
